@@ -1,4 +1,4 @@
-# hashcode-2021
+# Google Hashcode-2021
 Task
 
 Given the description of a city plan and planned paths for all cars in that city, optimize the schedule of traƻc lights to minimize the total amount of time spent in traƻc, and help as many cars as possible reach their destination before a given deadline.
